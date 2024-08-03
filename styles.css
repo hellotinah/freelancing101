@@ -1,0 +1,64 @@
+/* Purple and Yellow Theme CSS */
+
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #8E44AD;  /* Purple */
+}
+
+a {
+    color: #F1C40F;  /* Yellow */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #8E44AD;  /* Purple */
+    text-decoration: underline;
+}
+
+.navbar {
+    background-color: #8E44AD;  /* Purple */
+}
+
+.navbar-brand, .nav-link {
+    color: #F1C40F !important;  /* Yellow */
+}
+
+.btn-primary {
+    background-color: #8E44AD;  /* Purple */
+    border-color: #8E44AD;
+}
+
+.btn-primary:hover {
+    background-color: #F1C40F;  /* Yellow */
+    border-color: #F1C40F;
+}
+
+pre {
+    background-color: #F9E79F;  /* Light Yellow */
+    border: 1px solid #F1C40F;  /* Yellow */
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+th, td {
+    padding: 0.5rem;
+    border: 1px solid #8E44AD;  /* Purple */
+}
+
+th {
+    background-color: #8E44AD;  /* Purple */
+    color: #FFF;
+}
+
+tr:nth-child(even) {
+    background-color: #F9E79F;  /* Light Yellow */
+}

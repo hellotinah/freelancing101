@@ -1,0 +1,73 @@
+---
+title: "My Purple and Yellow Website"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-fold: true
+    code-tools: true
+
+jupyter: python3
+---
+
+```{python}
+#| label: setup
+#| include: false
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Set colors for plots
+purple = '#8E44AD'
+yellow = '#F1C40F'
+
+# Sample data
+data = pd.DataFrame({
+    'Category': ['A', 'B', 'C', 'D'],
+    'Value': [10, 20, 15, 25]
+})
+```
+
+# Welcome to My Purple and Yellow Website
+
+This is a sample Quarto document that demonstrates how to create a website with a purple and yellow theme.
+
+## Sample Plot
+
+Here's a sample plot using our theme colors:
+
+```{python}
+#| label: sample-plot
+#| fig-cap: "Sample Bar Plot"
+
+plt.figure(figsize=(10, 6))
+bars = plt.bar(data['Category'], data['Value'], color=purple)
+plt.title('Sample Bar Plot', color=purple)
+plt.xlabel('Category', color=purple)
+plt.ylabel('Value', color=purple)
+plt.tick_params(colors=purple)
+for bar in bars:
+    height = bar.get_height()
+    plt.text(bar.get_x() + bar.get_width()/2., height,
+             f'{height}',
+             ha='center', va='bottom', color=yellow)
+plt.show()
+```
+
+## Sample Table
+
+And here's a sample table:
+
+```{python}
+#| label: sample-table
+#| tbl-cap: "Sample Data Table"
+
+data
+```
+
+# Conclusion
+
+This template demonstrates how to create a Quarto document with Python code, plots, and tables, using a purple and yellow color scheme.
