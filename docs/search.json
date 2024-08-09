@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "freelancing101.html",
+    "href": "freelancing101.html",
+    "title": "🚀 Freelancing 101 Cheatsheet",
+    "section": "",
+    "text": "This cheatsheet summarizes the contents of this video: a step by step guide to starting a freelancing career."
+  },
+  {
+    "objectID": "freelancing101.html#figure-out-your-unfair-advantage",
+    "href": "freelancing101.html#figure-out-your-unfair-advantage",
+    "title": "🚀 Freelancing 101 Cheatsheet",
+    "section": "🔍 Figure Out Your Unfair Advantage",
+    "text": "🔍 Figure Out Your Unfair Advantage\n\n\n\n\n\n\n💡 Unfair advantages are skills, experiences, or resources that give an individual a significant edge over others in achieving success or reaching their goals, often stemming from circumstances beyond their control or exclusive opportunities.\n\n⚠️ Don’t skip this step! It’s extremely important for a long-lasting successful freelancing career.\n\n\n\n\nYour unfair advantage could stem from:\n\n\n👔 Work experience\n😊 Personality traits (e.g., compassion, attention to detail, patience)\n🧠 Domain expertise (e.g., coding, drawing, woodworking)\n📚 Learning ability\n\n\n\n🦑 Ibraheem’s Story\n\n\n\n\n\nflowchart LR\n    A[Joined Study Community] --&gt;|Saw Opportunity| B[Created Website]\n    B --&gt;|Replace Spreadsheet| C[Implemented Feedback]\n    C --&gt;|Demonstrated Skills| D[Paid Contract Work]\n    D --&gt;|Built Relationship| E[Business Partnership]\n    \n    style B fill:#f9f,stroke:#333,stroke-width:2px\n    style C fill:#bbf,stroke:#333,stroke-width:2px\n\n\n\n\n\n\n\n\n\n\n\n\nIbraheem’s Unfair Advantages:\n\n\n\n\n🖥️ Basic coding knowledge\n🧠 Ability to learn and adapt quickly\n\n\n\n\n\n\n\n\n\n🔎 How to Identify Your Unfair Advantage\n\n\n\n\nReflect on your skills and experiences\nAsk friends and family for their perspective\nConsider your personality traits and how they might benefit clients\nThink about areas where you learn quickly\nRead “The Unfair Advantage” by Ash Ali and Hasan Kubba for more insights"
+  },
+  {
+    "objectID": "freelancing101.html#transform-your-unfair-advantage-into-a-marketable-skill",
+    "href": "freelancing101.html#transform-your-unfair-advantage-into-a-marketable-skill",
+    "title": "🚀 Freelancing 101 Cheatsheet",
+    "section": "💼 Transform Your Unfair Advantage into a Marketable Skill",
+    "text": "💼 Transform Your Unfair Advantage into a Marketable Skill\nAfter you figure out your unfair advantage, it’s time to make it into a marketable skill.\n\n\n\n\n\ngraph LR\n    A[Unfair Advantage] --&gt; B{Combination}\n    B --&gt; C[Work + Quick Learning]\n    B --&gt; D[General + Specialized]\n    B --&gt; E[Very Specialized]\n    C --&gt; F[e.g., Software + AI]\n    D --&gt; G[e.g., Operations for Chiropractors]\n    E --&gt; H[e.g., 3D Jaw Models]\n\n\n\n\n\n\n\n\n\n\n\n\n💡 Pro Tip: Browse Reddit and Facebook groups surrounding your niche to see what people are saying they want.\n\n\n\n\n\n\n\n\n\n📚 Recommended Books\n\n\n\n\n“The Unfair Advantage” by Ash Ali and Hasan Kubba\n“So Good They Can’t Ignore You” by Cal Newport"
+  },
+  {
+    "objectID": "freelancing101.html#two-birds-one-stone-portfolio-and-your-first-gig",
+    "href": "freelancing101.html#two-birds-one-stone-portfolio-and-your-first-gig",
+    "title": "🚀 Freelancing 101 Cheatsheet",
+    "section": "🐦 Two Birds One Stone: Portfolio and Your First Gig",
+    "text": "🐦 Two Birds One Stone: Portfolio and Your First Gig\n\n\n\n\n\n\n💼 Portfolio is everything. Doesn’t matter if you already have lots of work experience on your resume.\n\n\n\nThink about these key questions:\n\n\n🤔 How do I showcase myself and my unfair advantage?\n🎯 Based on the type of work I’m going for, how do I show that I have the skills and experience my potential client would want?\n⏳ Spend a lot of time building your portfolio because that is almost always the first screen\n\n\n\n\n\n\n\n\n💡 Pro Tip: Change your portfolio projects depending on the specific project you are trying to land. Clients will hire the freelancer with the most relevant experience.\n\n\n\n\n\n\n\n\n\n⚠️ Don’t just do personal projects by yourself! Go out and offer to work on real projects to put on your portfolio.\n\n\n\n\nSample Portfolio Templates\n\n\n\n\n\ngraph TD\n    A[Portfolio Templates] --&gt; B[Template 1]\n    A --&gt; C[Template 2]\n    A --&gt; D[Template 3]\n    B --&gt; E[Customize]\n    C --&gt; E\n    D --&gt; E\n    E --&gt; F[Tailor to Client]"
+  },
+  {
+    "objectID": "freelancing101.html#platforms",
+    "href": "freelancing101.html#platforms",
+    "title": "🚀 Freelancing 101 Cheatsheet",
+    "section": "🔧 Platforms",
+    "text": "🔧 Platforms\n\n\n\n\n\n\n💼 I personally prefer not to use platforms like Fiverr and Upwork as a freelancer because margins are very thin and sometimes people can be difficult to work with. But they can be very beneficial!\n\n\n\nConsider using platforms if:\n\n🏞️ You have a completely blank portfolio. It’s a good way to start building your portfolio.\n🚀 You have a rare skill that is in high demand (e.g., building AI chatbots).\n💰 You can undercut people’s prices (e.g., building websites like this one using Quarto, which is way faster and cheaper).\n🌍 You’re from a developing country because generally developed country clients pay better than local clients.\n🤝 You just want to expand your network."
+  },
+  {
+    "objectID": "freelancing101.html#sourcing-clients-scaling",
+    "href": "freelancing101.html#sourcing-clients-scaling",
+    "title": "🚀 Freelancing 101 Cheatsheet",
+    "section": "🌱 Sourcing Clients & Scaling",
+    "text": "🌱 Sourcing Clients & Scaling\n\n\n\n\n\n\n💼 Initially, you might need to work for free and handle challenging situations. The goal is to build a system that continuously attracts clients, allowing you to be selective.\n\n\n\n\n\n\n\n\nflowchart LR\n    A[Start] --&gt; B[Initial Projects]\n    B --&gt; C{Build System}\n    C --&gt; D[Manage Relationships]\n    C --&gt; E[Outreach]\n    D --&gt; F[Repeat Clients]\n    D --&gt; G[Referrals]\n    E --&gt; H[Attend Events]\n    E --&gt; I[Post Content]\n    F & G & H & I --&gt; J[Selective Clientele]\n\n\n\n\n\n\nKey Strategies: ::: {.emoji-list}\n🤝 Manage Current Relationships\nDeliver excellent work Foster repeat business Encourage referrals\n📢 Outreach\n🎭 Attend industry events (e.g., content creator meetups) 🖋️ Post educational content online (especially on LinkedIn) :::\n\n\n\n\n\n\n💡 Pro Tip: At events, you’ll meet potential clients like fractional operations companies, editors, investors, and lawyers. The networking opportunities are invaluable!\n\n\n\n\n\n\n\n\n\n⚠️ Caution: Building a robust client network takes time, but it’s worth the effort. Eventually, you’ll have the luxury of choosing your clients.\n\n\n\n📚 Recommended Resources ::: {.book}\n“The E-Myth Revisited” by Michael E. Gerber “The Dip” by Seth Godin Social media marketing tutorials on YouTube :::"
+  },
+  {
+    "objectID": "freelancing101.html#all-the-other-tips",
+    "href": "freelancing101.html#all-the-other-tips",
+    "title": "🚀 Freelancing 101 Cheatsheet",
+    "section": "☝️ All The Other Tips",
+    "text": "☝️ All The Other Tips\n🏢 Setting up a Company\n\n\n\n\n\n\nIn the US, consider an LLC; in Canada, a C-corp. These structures offer legal protection and tax benefits. ⚠️ But remember: Don’t get bogged down with this initially. Focus on landing your first client!\n\n\n\n💰 Pricing ::: {.callout .tip}\nIn the beginning, getting paid at all is a win. As you gain experience, align with industry standards. Don’t underprice your services.\n💡 Pro Tip: Ask clients for their budget first to gauge expectations. ::: ::: {.book} 📚 Recommended Read: “Never Split the Difference” by Chris Voss ::: 🔍 Prevent Scope Creep ::: {.callout .warning} Clearly define:\nWhat you will and won’t do Level of post-project support (e.g., tech support)\nThis clarity makes it easier to maintain boundaries later. ::: 🌟 Reputation Management ::: {.callout} Remember: Your reputation is everything in freelancing. 🔑 Key Strategy: Underpromise and overdeliver :::"
+  }
+]

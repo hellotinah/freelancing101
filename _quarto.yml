@@ -1,5 +1,9 @@
 project:
   title: "freelancing101"
+  type: website
+  output-dir: docs
+
+
 
 
 
