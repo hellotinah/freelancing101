@@ -1,0 +1,277 @@
+---
+title: "🚀 Freelancing 101 Cheatsheet"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    code-fold: true
+    code-tools: true
+    include-in-header:
+      - text: |
+          <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+          <script>mermaid.initialize({startOnLoad:true});</script>
+          <style>
+            body {
+              font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+              line-height: 1.6;
+              color: #333;
+            }
+            h1, h2, h3 { color: #8E44AD; }
+            .emoji-list {
+              list-style-type: none;
+              padding-left: 0;
+            }
+            .emoji-list li {
+              padding-left: 35px;
+              position: relative;
+              margin-bottom: 10px;
+            }
+            .emoji-list li::before {
+              position: absolute;
+              left: 0;
+              top: 0;
+              font-size: 24px;
+            }
+            .callout {
+              border-left: 4px solid #8E44AD;
+              background-color: #F3E5F5;
+              padding: 15px;
+              margin-bottom: 20px;
+            }
+            .warning {
+              background-color: #FFEBEE;
+              border-left-color: #F44336;
+            }
+            .tip {
+              background-color: #E8F5E9;
+              border-left-color: #4CAF50;
+            }
+            .book {
+              background-color: #FFF9C4;
+              border-left-color: #FBC02D;
+            }
+          </style>
+---
+
+This cheatsheet summarizes the contents of this [video](https://quarto.org): a step by step guide to starting a freelancing career.
+
+## 🔍 Figure Out Your Unfair Advantage
+
+::: {.callout}
+💡 Unfair advantages are skills, experiences, or resources that give an individual a significant edge over others in achieving success or reaching their goals, often stemming from circumstances beyond their control or exclusive opportunities.
+
+::: {.warning}
+⚠️ Don't skip this step! It's extremely important for a long-lasting successful freelancing career.
+:::
+:::
+
+Your unfair advantage could stem from:
+
+::: {.emoji-list}
+- 👔 Work experience
+- 😊 Personality traits (e.g., compassion, attention to detail, patience)
+- 🧠 Domain expertise (e.g., coding, drawing, woodworking)
+- 📚 Learning ability
+:::
+
+### 🦑 Ibraheem's Story
+
+```{mermaid}
+%%| fig-width: 8
+%%| fig-height: 3
+flowchart LR
+    A[Joined Study Community] -->|Saw Opportunity| B[Created Website]
+    B -->|Replace Spreadsheet| C[Implemented Feedback]
+    C -->|Demonstrated Skills| D[Paid Contract Work]
+    D -->|Built Relationship| E[Business Partnership]
+    
+    style B fill:#f9f,stroke:#333,stroke-width:2px
+    style C fill:#bbf,stroke:#333,stroke-width:2px
+```
+::: {.callout}
+
+#### Ibraheem's Unfair Advantages:
+
+1. 🖥️ Basic coding knowledge
+2. 🧠 Ability to learn and adapt quickly
+:::
+
+::: {.callout}
+### 🔎 How to Identify Your Unfair Advantage
+
+1. Reflect on your skills and experiences
+2. Ask friends and family for their perspective
+3. Consider your personality traits and how they might benefit clients
+4. Think about areas where you learn quickly
+5. Read "The Unfair Advantage" by Ash Ali and Hasan Kubba for more insights
+:::
+
+## 💼 Transform Your Unfair Advantage into a Marketable Skill
+
+After you figure out your unfair advantage, it's time to make it into a marketable skill.
+
+```{mermaid}
+graph LR
+    A[Unfair Advantage] --> B{Combination}
+    B --> C[Work + Quick Learning]
+    B --> D[General + Specialized]
+    B --> E[Very Specialized]
+    C --> F[e.g., Software + AI]
+    D --> G[e.g., Operations for Chiropractors]
+    E --> H[e.g., 3D Jaw Models]
+```
+
+::: {.callout .tip}
+💡 **Pro Tip:** Browse Reddit and Facebook groups surrounding your niche to see what people are saying they want.
+:::
+
+::: {.callout .book}
+### 📚 Recommended Books
+
+- "The Unfair Advantage" by Ash Ali and Hasan Kubba
+- "So Good They Can't Ignore You" by Cal Newport
+:::
+
+## 🐦 Two Birds One Stone: Portfolio and Your First Gig
+
+::: {.callout}
+💼 Portfolio is everything. Doesn't matter if you already have lots of work experience on your resume. 
+:::
+
+Think about these key questions:
+
+::: {.emoji-list}
+- 🤔 How do I showcase myself and my unfair advantage?
+- 🎯 Based on the type of work I'm going for, how do I show that I have the skills and experience my potential client would want?
+- ⏳ Spend a lot of time building your portfolio because that is almost always the first screen
+:::
+
+::: {.callout .tip}
+💡 **Pro Tip:** Change your portfolio projects depending on the specific project you are trying to land. Clients will hire the freelancer with the most relevant experience.
+:::
+
+::: {.callout .warning}
+⚠️ Don't just do personal projects by yourself! Go out and offer to work on real projects to put on your portfolio.
+:::
+
+### Sample Portfolio Templates
+
+```{mermaid}
+graph TD
+    A[Portfolio Templates] --> B[Template 1]
+    A --> C[Template 2]
+    A --> D[Template 3]
+    B --> E[Customize]
+    C --> E
+    D --> E
+    E --> F[Tailor to Client]
+```
+## 🔧 Platforms
+
+::: {.callout}
+💼 I personally prefer not to use platforms like Fiverr and Upwork as a freelancer because margins are very thin and sometimes people can be difficult to work with. But they can be very beneficial!
+:::
+
+
+Consider using platforms if:
+
+::: {.emoji-list}
+🏞️ You have a completely blank portfolio. It's a good way to start building your portfolio.
+
+🚀 You have a rare skill that is in high demand (e.g., building AI chatbots).
+
+💰 You can undercut people's prices (e.g., building websites like this one using Quarto, which is way faster and cheaper).
+
+🌍 You're from a developing country because generally developed country clients pay better than local clients.
+
+🤝 You just want to expand your network.
+:::
+
+## 🌱 Sourcing Clients & Scaling
+
+::: {.callout}
+💼 Initially, you might need to work for free and handle challenging situations. The goal is to build a system that continuously attracts clients, allowing you to be selective.
+:::
+
+```{mermaid}
+%%| fig-width: 8
+%%| fig-height: 3
+flowchart LR
+    A[Start] --> B[Initial Projects]
+    B --> C{Build System}
+    C --> D[Manage Relationships]
+    C --> E[Outreach]
+    D --> F[Repeat Clients]
+    D --> G[Referrals]
+    E --> H[Attend Events]
+    E --> I[Post Content]
+    F & G & H & I --> J[Selective Clientele]
+```
+Key Strategies:
+::: {.emoji-list}
+
+🤝 Manage Current Relationships
+
+Deliver excellent work
+Foster repeat business
+Encourage referrals
+
+
+📢 Outreach
+
+🎭 Attend industry events (e.g., content creator meetups)
+🖋️ Post educational content online (especially on LinkedIn)
+:::
+
+
+::: {.callout .tip}
+💡 Pro Tip: At events, you'll meet potential clients like fractional operations companies, editors, investors, and lawyers. The networking opportunities are invaluable!
+:::
+::: {.callout .warning}
+⚠️ Caution: Building a robust client network takes time, but it's worth the effort. Eventually, you'll have the luxury of choosing your clients.
+:::
+📚 Recommended Resources
+::: {.book}
+
+"The E-Myth Revisited" by Michael E. Gerber
+"The Dip" by Seth Godin
+Social media marketing tutorials on YouTube
+:::
+
+## ☝️ All The Other Tips 
+
+🏢 Setting up a Company
+
+::: {.callout}
+In the US, consider an LLC; in Canada, a C-corp. These structures offer legal protection and tax benefits.
+⚠️ But remember: Don't get bogged down with this initially. Focus on landing your first client!
+:::
+💰 Pricing
+::: {.callout .tip}
+
+In the beginning, getting paid at all is a win.
+As you gain experience, align with industry standards.
+Don't underprice your services.
+
+💡 Pro Tip: Ask clients for their budget first to gauge expectations.
+:::
+::: {.book}
+📚 Recommended Read: "Never Split the Difference" by Chris Voss
+:::
+🔍 Prevent Scope Creep
+::: {.callout .warning}
+Clearly define:
+
+What you will and won't do
+Level of post-project support (e.g., tech support)
+
+This clarity makes it easier to maintain boundaries later.
+:::
+🌟 Reputation Management
+::: {.callout}
+Remember: Your reputation is everything in freelancing.
+🔑 Key Strategy: Underpromise and overdeliver
+:::
+
