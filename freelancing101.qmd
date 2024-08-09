@@ -70,32 +70,13 @@ This cheatsheet summarizes the contents of this [video](https://quarto.org): a s
 Your unfair advantage could stem from:
 
 ::: {.emoji-list}
-- 👔 Work experience
-- 😊 Personality traits (e.g., compassion, attention to detail, patience)
-- 🧠 Domain expertise (e.g., coding, drawing, woodworking)
-- 📚 Learning ability
-:::
+👔 Work experience
 
-### 🦑 Ibraheem's Story
+😊 Personality traits (e.g., compassion, attention to detail, patience)
 
-```{mermaid}
-%%| fig-width: 8
-%%| fig-height: 3
-flowchart LR
-    A[Joined Study Community] -->|Saw Opportunity| B[Created Website]
-    B -->|Replace Spreadsheet| C[Implemented Feedback]
-    C -->|Demonstrated Skills| D[Paid Contract Work]
-    D -->|Built Relationship| E[Business Partnership]
-    
-    style B fill:#f9f,stroke:#333,stroke-width:2px
-    style C fill:#bbf,stroke:#333,stroke-width:2px
-```
-::: {.callout}
+🧠 Domain expertise (e.g., coding, drawing, woodworking)
 
-#### Ibraheem's Unfair Advantages:
-
-1. 🖥️ Basic coding knowledge
-2. 🧠 Ability to learn and adapt quickly
+📚 Learning ability
 :::
 
 ::: {.callout}
@@ -143,9 +124,11 @@ graph LR
 Think about these key questions:
 
 ::: {.emoji-list}
-- 🤔 How do I showcase myself and my unfair advantage?
-- 🎯 Based on the type of work I'm going for, how do I show that I have the skills and experience my potential client would want?
-- ⏳ Spend a lot of time building your portfolio because that is almost always the first screen
+🤔 How do I showcase myself and my unfair advantage?
+
+🎯 Based on the type of work I'm going for, how do I show that I have the skills and experience my potential client would want?
+
+⏳ Spend a lot of time building your portfolio because that is almost always the first screen
 :::
 
 ::: {.callout .tip}
@@ -156,18 +139,6 @@ Think about these key questions:
 ⚠️ Don't just do personal projects by yourself! Go out and offer to work on real projects to put on your portfolio.
 :::
 
-### Sample Portfolio Templates
-
-```{mermaid}
-graph TD
-    A[Portfolio Templates] --> B[Template 1]
-    A --> C[Template 2]
-    A --> D[Template 3]
-    B --> E[Customize]
-    C --> E
-    D --> E
-    E --> F[Tailor to Client]
-```
 ## 🔧 Platforms
 
 ::: {.callout}
@@ -194,7 +165,7 @@ Consider using platforms if:
 ::: {.callout}
 💼 Initially, you might need to work for free and handle challenging situations. The goal is to build a system that continuously attracts clients, allowing you to be selective.
 :::
-
+**Building Systems:**
 ```{mermaid}
 %%| fig-width: 8
 %%| fig-height: 3
@@ -209,22 +180,6 @@ flowchart LR
     E --> I[Post Content]
     F & G & H & I --> J[Selective Clientele]
 ```
-Key Strategies:
-::: {.emoji-list}
-
-🤝 Manage Current Relationships
-
-Deliver excellent work
-Foster repeat business
-Encourage referrals
-
-
-📢 Outreach
-
-🎭 Attend industry events (e.g., content creator meetups)
-🖋️ Post educational content online (especially on LinkedIn)
-:::
-
 
 ::: {.callout .tip}
 💡 Pro Tip: At events, you'll meet potential clients like fractional operations companies, editors, investors, and lawyers. The networking opportunities are invaluable!
@@ -232,46 +187,46 @@ Encourage referrals
 ::: {.callout .warning}
 ⚠️ Caution: Building a robust client network takes time, but it's worth the effort. Eventually, you'll have the luxury of choosing your clients.
 :::
-📚 Recommended Resources
-::: {.book}
 
-"The E-Myth Revisited" by Michael E. Gerber
-"The Dip" by Seth Godin
-Social media marketing tutorials on YouTube
+
+::: {.callout .book}
+### 📚 Recommended Books
+- "The E-Myth Revisited" by Michael E. Gerber
+- "The Dip" by Seth Godin
+- Social media marketing tutorials on YouTube
 :::
 
 ## ☝️ All The Other Tips 
 
-🏢 Setting up a Company
+**🏢 Setting up a Company**
 
 ::: {.callout}
 In the US, consider an LLC; in Canada, a C-corp. These structures offer legal protection and tax benefits.
 ⚠️ But remember: Don't get bogged down with this initially. Focus on landing your first client!
 :::
-💰 Pricing
+
+**💰 Pricing**
+
+In the beginning, getting paid at all is a win. As you gain experience, align with industry standards. 
+
 ::: {.callout .tip}
-
-In the beginning, getting paid at all is a win.
-As you gain experience, align with industry standards.
-Don't underprice your services.
-
-💡 Pro Tip: Ask clients for their budget first to gauge expectations.
+💡 **Pro Tip:** Ask clients for their budget first to gauge expectations.
 :::
+
 ::: {.book}
 📚 Recommended Read: "Never Split the Difference" by Chris Voss
 :::
-🔍 Prevent Scope Creep
+**🔍 Prevent Scope Creep**
+
 ::: {.callout .warning}
-Clearly define:
-
-What you will and won't do
-Level of post-project support (e.g., tech support)
-
-This clarity makes it easier to maintain boundaries later.
+Clearly define what you will and won't do eg. you will only do website maintenance for 1 month.
 :::
-🌟 Reputation Management
-::: {.callout}
+
+**🌟 Reputation Management**
+
 Remember: Your reputation is everything in freelancing.
+
+::: {.callout}
 🔑 Key Strategy: Underpromise and overdeliver
 :::
 
