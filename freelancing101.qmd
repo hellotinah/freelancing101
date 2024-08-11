@@ -167,10 +167,10 @@ In the US, consider an LLC; in Canada, a C-corp. These structures offer legal pr
 
 **💰 Pricing**
 
-In the beginning, getting paid at all is a win. As you gain experience, align with industry standards. 
+In the beginning, getting paid at all is a win. As you gain experience, align with industry standards. I genuinely often just start with just describing my situation to ChatGPT.  
 
 ::: {.callout .tip}
-💡 **Pro Tip:** Ask clients for their budget first to gauge expectations.
+💡 **Pro Tip:** You can try asking clients for their budget first to gauge expectations.
 :::
 
 ::: {.book}
@@ -179,12 +179,12 @@ In the beginning, getting paid at all is a win. As you gain experience, align wi
 **🔍 Prevent Scope Creep**
 
 ::: {.callout .warning}
-Clearly define what you will and won't do eg. you will only do website maintenance for 1 month.
+Clearly define what you will and won't do eg. you will only do website maintenance for 1 month before switching over to a month-by-month retainer.
 :::
 
 **🌟 Reputation Management**
 
-Remember: Your reputation is everything in freelancing.
+Remember: Your reputation is everything in freelancing. 
 
 ::: {.callout}
 🔑 Key Strategy: Underpromise and overdeliver
