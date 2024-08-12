@@ -96,8 +96,13 @@ Think about these key questions:
 :::
 
 ::: {.callout .warning}
-⚠️ Don't just do personal projects by yourself! Go out and offer to work on real projects to put on your portfolio.
+⚠️ Don't just do personal projects by yourself! Go out and offer to work on real projects to put on your portfolio.  
 :::
+
+Btw I built this website using Quarto and you can also build portfolios with it too. It's an open source free alternative to website builders. 
+
+Some Quarto portfolios to take inspo from:
+[Dr. Daniel Kapitan](https://kapitan.net/) ([source code](https://github.com/dkapitan/dkapitan.github.io)),[Vistales](https://vistales.github.io/Home/_site/) ([source code](https://github.com/Vistales/Home)), [Hamel Husain](https://hamel.dev/](https://github.com/hamelsmu/hamel/)), [Samal Naqvi](https://forbo7.github.io/](https://github.com/ForBo7/forbo7.github.io)) 
 
 ## 🔧 Platforms
 
