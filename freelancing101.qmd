@@ -15,7 +15,7 @@ format:
           <script>mermaid.initialize({startOnLoad:true});</script>
 ---
 
-This cheatsheet summarizes the contents of this [video](https://quarto.org): a step by step guide to starting a freelancing career.
+This cheatsheet summarizes the contents of this [video](https://www.youtube.com/watch?v=utPBI1qitJU): a step by step guide to starting a freelancing career.
 
 ## 🔍 Figure Out Your Unfair Advantage
 
@@ -187,6 +187,6 @@ Clearly define what you will and won't do eg. you will only do website maintenan
 Remember: Your reputation is everything in freelancing. 
 
 ::: {.callout}
-🔑 Key Strategy: Underpromise and overdeliver
+🔑 Key Strategy: Underpromise and overdeliver.
 :::
 
